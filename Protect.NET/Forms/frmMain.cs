@@ -9,6 +9,7 @@ namespace Protect.NET.Forms
 {
     public partial class frmMain : Form
     {
+        // hello
         List<IProtection> protections = new List<IProtection>();
         public frmMain()
         {

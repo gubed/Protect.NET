@@ -23,9 +23,7 @@ namespace Protect.NET.Protections
                 return "Renames all constants within the assembly.";
             }
         }
-        /// <summary>
-        /// /
-        /// </summary>asdasd
+
         public void Protect()
         {
 
